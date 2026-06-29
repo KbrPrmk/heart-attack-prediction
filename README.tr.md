@@ -1,12 +1,12 @@
-# **❤️ Kalp Krizi Riski Tahmini**
-
-Klinik ölçümlerden Logistic Regression ile kalp krizi riskini tahmin eden; tam EDA, aykırı değer işleme ve hiperparametre optimizasyonu içeren bir proje.
-
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange.svg)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![HF Space](https://img.shields.io/badge/🤗%20Demo-Hugging%20Face%20Space-yellow)](https://huggingface.co/spaces/KubraParmak/heart-attack-prediction-demo)
-[![HF Model](https://img.shields.io/badge/🤗%20Model-Hugging%20Face%20Hub-yellow)](https://huggingface.co/KubraParmak/heart-attack-prediction-model)
+<h1 align="center">❤️ Kalp Krizi Riski Tahmini</h1>
+<p align="center"><b>Klinik ölçümlerden Logistic Regression ile kalp krizi riskini tahmin eden; tam EDA, aykırı değer işleme ve hiperparametre optimizasyonu içeren bir proje.</b></p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" />
+    <img src="https://img.shields.io/badge/scikit--learn-ML-orange.svg" />
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+    <img src="https://img.shields.io/badge/🤗%20Demo-Hugging%20Face%20Space-yellow" />
+    <img src="https://img.shields.io/badge/🤗%20Model-Hugging%20Face%20Hub-yellow" />
+</p>
 
 > ⚠️ **Uyarı:** Bu proje yalnızca eğitim/portfolyo amaçlıdır. Tıbbi bir tanı aracı **değildir** ve gerçek sağlık kararları için kullanılmamalıdır. Gerçek durumlar için lütfen bir hekime danışın.
 

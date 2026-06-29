@@ -1,12 +1,12 @@
-# **❤️ Heart Attack Risk Prediction**
-
-Predicting heart attack risk from clinical measurements using Logistic Regression, with full EDA, outlier handling, and hyperparameter tuning.
-
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange.svg)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![HF Space](https://img.shields.io/badge/🤗%20Demo-Hugging%20Face%20Space-yellow)](https://huggingface.co/spaces/KubraParmak/heart-attack-prediction-demo)
-[![HF Model](https://img.shields.io/badge/🤗%20Model-Hugging%20Face%20Hub-yellow)](https://huggingface.co/KubraParmak/heart-attack-prediction-model)
+<h1 align="center">❤️ Heart Attack Risk Prediction</h1>
+<p align="center"><b>Predicting heart attack risk from clinical measurements using Logistic Regression, with full EDA, outlier handling, and hyperparameter tuning.</b></p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" />
+    <img src="https://img.shields.io/badge/scikit--learn-ML-orange.svg" />
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+    <img src="https://img.shields.io/badge/🤗%20Demo-Hugging%20Face%20Space-yellow" />
+    <img src="https://img.shields.io/badge/🤗%20Model-Hugging%20Face%20Hub-yellow" />
+</p>
 
 > ⚠️ **Disclaimer:** This project is for educational/portfolio purposes only. It is **not** a medical diagnostic tool and must not be used for real health decisions. Always consult a qualified physician.
 
